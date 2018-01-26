@@ -1,0 +1,6 @@
+framework module Pods_jofriends {
+  umbrella header "Pods-jofriends-umbrella.h"
+
+  export *
+  module * { export * }
+}
